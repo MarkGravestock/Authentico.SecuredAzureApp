@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authentico.SecuredFunctionApp", "Authentico.SecuredFunctionApp\Authentico.SecuredFunctionApp.csproj", "{35F94455-4B0B-4B83-B122-6DEF0AD60AAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authentico.ReactWebApp", "Authentico.ReactWebApp\Authentico.ReactWebApp.csproj", "{13FDE945-7FAB-4D19-BB0B-E6E970019B4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35F94455-4B0B-4B83-B122-6DEF0AD60AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35F94455-4B0B-4B83-B122-6DEF0AD60AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35F94455-4B0B-4B83-B122-6DEF0AD60AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35F94455-4B0B-4B83-B122-6DEF0AD60AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13FDE945-7FAB-4D19-BB0B-E6E970019B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13FDE945-7FAB-4D19-BB0B-E6E970019B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13FDE945-7FAB-4D19-BB0B-E6E970019B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13FDE945-7FAB-4D19-BB0B-E6E970019B4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
